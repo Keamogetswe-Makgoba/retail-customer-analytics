@@ -1,4 +1,5 @@
 # 📊 Online Store Executive Dashboard & Customer Analytics
+🚀 **Live Demo:** [Click here to view the interactive dashboard](https://retail-customer-analytics-dt9g2qqnbbwtomda5bvmsk.streamlit.app/)
 
 ## 📝 Project Overview
 
